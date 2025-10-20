@@ -1,0 +1,891 @@
+`The boat gave a big shudder.`
+` Seems we've docked at the harbor.`
+` The boat driver came out and jumped to the pier with the mooring rope.`
+` A large man in a tuxedo was waiting there for us with a warm, smiling face.`
+`......I didn't know his face, but judging by his clothes, I guessed that he was a servant of the Ushiromiya family head house.`
+`"Welcome home, Milady.`
+` You were quite late, and I began to worry."`
+`"Ah, thanks for caring!`
+` This moron got so scared`
+` that we had to slow down.`
+` It was seriously annoying!"`
+`"S, shut up...someday, when the shoe's on the other foot, you'll remember this, ...ugghh."`
+`At this rate, the word'll spread around the entire family and I'll become the big conversation piece during dinner.`
+` Even without this, everyone'd be talking about me because of that six year gap...but now I've given them an even juicier topic...! `
+`Dammit, why does the Ushiromiya head house have to live on this isolated island! `
+`In the meantime, the boat had finished its mooring.`
+` A small plank was lowered so that we could get down.`
+` One by one, our parents came out of the boat.`
+`"You must all be quite tired from your long trip.`
+` Madam, please, allow me to assist you."`
+`"Thank you.`
+` It's been a while, Gohda-san. How are you?"`
+`"Thank you for your concern.`
+` It is always my pleasure to serve."`
+`"Battler-kun, isn't this your first time meeting Gohda-san?`
+` If I'm not mistaken, you weren't working here six years ago, right?"`
+`"Indeed.`
+` So please, allow me greet him for the first time.`
+` It is an honor to meet you at last, Battler-sama."`
+`"......I'm pretty secure about my height, but you're huge.`
+` ...This is definitely our first meeting.`
+` If I'd ever met a big guy like you, I'd never forget it...!`
+` It's a pleasure.`
+` I'm Battler."`
+`"I do apologize for the wait.`
+` I have been working for the Ushiromiya head house since the year before last. I am Gohda ({p:0:郷田}), your servant.`
+` It is a pleasure to make your acquaintance.`
+` If there is ever anything you need, please feel free to rely on me."`
+`"Gohda-san, it's been some time."`
+`"It has been too long, George-sama.`
+` Please, allow me to assist you."`
+`"As usual, you're a reception pro...`
+` If you ever need a job, just let me know, okay?`
+` I'd hire you anytime!"`
+`"You do me too much honor.`
+` Please allow me to assist you, Hideyoshi-sama."`
+`Gohda-san then lent a hand to everyone as they disembarked, greeting them as they passed.`
+` His speech and mannerisms had the refined polish of a professional.`
+` He was very graceful, in contrast with his initially rough-looking appearance.`
+` His large size made him seem a bit scary at first, but he was much more polite than my first impression of him had led me to believe.`
+` He claimed to have served on the island for two years, but he had doubtless worked at a similar job somewhere before.`
+` After everybody disembarked, the mooring rope was untied and the boat started to steer away from the harbor.`
+` It was probably returning to its home port of Niijima.`
+` The captain waved his hand in farewell.`
+` Maria conscientiously waved her hand back. `
+`"............Hmmm, now that I think about it, that must be why I've felt something out of place for a while now.`
+` I can't hear the cries of the seagulls."`
+`"Seagulls?`
+` The birds?"`
+`It's true that whenever I come to this island, the seagulls always meet us with their lively 'nyaa nyaa' cries.`
+` And because of that, whenever I hear the cries of the seagulls in any other place, I get the feeling that I'm coming to a family conference.`
+` Except for the small part of the island where those of the Ushiromiya head house live, Rokkenjima had been left uncultivated, apparently transforming into a paradise for wild birds.`
+` The whole wharf looked like it was turning into a huge seagull colony, and this island always was full of seagulls.`
+` Since those seagulls didn't come to greet us, I felt a bit lonely.`
+`"What's wrong, Battler-kun?"`
+`"Oh, Rosa oba-san.`
+` ...Nah, it's nothing really, I was just sayin' that since I can't hear the seagulls, it feels a bit lonely."`
+`"My, now that you say so, it's true.`
+` Even though they're always so lively, today there isn't one to be seen."`
+`"......Uu-?`
+` Why no seagulls?"`
+`"Hmmm, maybe it's because the seagulls are having a gathering somewhere too?`
+` Maria, did you want to see the seagulls?"`
+`"Uu-, wanted to."`
+`"What happened for them to all disappear?`
+` Maybe Jessica made aaall of 'em into {c:86EF9C:yakitori} and ate 'em!"`
+`"......Uu-?!"`
+`"The hell, don't say disturbing stuff like that!`
+` You'll get Maria all confused!!"`
+`"Uu-uu-uu-!`
+` Jessica onee-chan made them into yakitori, made them into yakitori!`
+` Uu-!!"`
+`"I did not, I did not!`
+` Why the hell would I do something like that?!"`
+`"That's right, that's right~, Jessica made 'em into yakitori!`
+` Skin 'n meatballs, liver 'n onio~on!"`
+`"Swim in meat dolls!`
+` Liver 'n oniooon!!`
+` Uu-uu-uu-!`
+` Ahaha, ahaha!`
+` Hahahaha!"`
+`As I made fun of Jessica, Maria tagged along looking like she was having fun.`
+` Ooh, so she's a person who goes with other people's moods! `
+`Alrighty then, from today on I'll make you my number one follower! `
+`As I smiled at her, she beamed, looking overjoyed and possibly happy with my modest solidarity.`
+`"That's not it, Maria-chan.`
+` It seems that wild birds are attuned to changes in the weather and atmospheric pressure.`
+` It looks like the weather will get worse around tonight.`
+` It's possible they hurried back to their nests."`
+`"............Uu-.`
+` Not yakitori?`
+` Jessica onee-chan didn't make them into yakitori?"`
+`"I did not, I did not!!`
+` I said, I wouldn't do stuff like that!`
+` Alright, Battler, you admit right now that you lied!"`
+`"Battler-kun.`
+` Maria-chan is a naive girl, so she takes even jokes seriously.`
+` You should choose your jokes more carefully."`
+`...George-aniki gently scolded me.`
+`...Even though I outstripped Aniki in height, Aniki was of course Aniki.`
+` There was no choice but to obediently apologize.`
+`"H-hey,`
+` my bad, my bad...`
+` Maria, that just now was a joke.`
+` It's just today the seagulls are all quiet in their nests."`
+`"......Battler lie?`
+` George onii-chan true?"`
+`Despite her having all that fun, she really was tricked...? `
+`Her pure eyes seemed to blame me.`
+`......Maybe I went a little overboard with her after all.`
+`"Yeeaah, that's right, that's right.`
+` What George-aniki said is true.`
+` The weather is bad so they probably went home for today.`
+` It doesn't mean they're gone, does it?`
+` Right, Oba-san!"`
+`"That's right.`
+` Tomorrow, when the weather gets better, I'm sure they'll come back and let us hear their 'Myaa myaa' cries."`
+`"Uu-.`
+` They're waiting for the weather to get better to come back.`
+` Waiting for tomorrow.`
+` Waiting for the weather to get better.`
+` Uu-uu-!"`
+`Maria was in a lighter mood, and was looking forward to tomorrow when the seagulls would come back and fill the skies.`
+` Still, George-aniki really was amazing at taking care of kids.`
+`...I think I remember Aniki taking good care of me as well when I was a brat six years ago.`
+`......Aniki, that's probably your gift.`
+`"George-kun is amazing at taking care of kids.`
+` And you're not working in child-care?"`
+`"Yeah, George nii-san, looks like it's what you were born to do.`
+` Personally, I see you doing that rather than doing business in some company president's office."`
+`"Oh, no.`
+` Child-care is a fine job.`
+` But it's not a job where merely liking children is enough."`
+`"You're truly modest, George-kun.`
+` But Battler-kun is also quite good with children!`
+` Earlier, even if it was just for a time, Maria seemed to be having a lot of fun.`
+` Keep on playing with her like you did just now.`
+` Just choose the jokes carefully though, alright?`
+` *giggle*."`
+`Rosa oba-san winked at me, giggling a little.`
+` A real mother, I thought to myself, who's happy that Maria looks like she's having fun.`
+`"Come ON, Rosa.`
+` And you brats too, what the hell're you doing. Let's go now!"`
+`"Alright, alright, we're coming."`
+`The old bastard was waving his hand for us to hurry up.`
+` But yeah, we needed to get moving.`
+` It's not like it'd be too late to have the same discussion after we got our luggage in our rooms.`
+`"Now then everyone, I shall lead you towards the guesthouse where you will be staying.`
+` Please, this way."`
+`Gohda-san called to everyone and started leading us.`
+` Kumasawa-san brought up the rear.`
+` A serpentine, twisting path led into a dim forest.`
+` It ran a bit uphill.`
+` I'd guess the path was made twisting so that the slope wouldn't be felt too much, but`
+` personally, I'd have been happier if they'd had the guts to make some stairs in a straight line.`
+`......No doubt they made the path twisting on purpose, to put on airs of distance and importance...`
+` Before long, we saw garden-style stone steps. `
+`...Aaah, from here on, I have some memories.`
+` Go up these, and...`
+` At the top of the stone steps, we saw a beautiful guesthouse.`
+` Its facade was of course lovely, but even more so, `
+`......we couldn't enter its doors without having our hearts stolen away by the splendor of that beautiful rose garden that spread before it.`
+`"Aaah~!`
+` It's as beautiful as ever this year...`
+` A real delight for the eyes..."`
+`After climbing the stone steps, the people welcomed in by the rose garden gave voice to their impressions one by one.`
+`"Aren't the flowers less lively this year?`
+` It must be because the summer wasn't warm enough."`
+`"I also believe that is so.`
+` When one compares with last year's blooming, it is a pity that this year's is a bit inferior."`
+`Even so, it was a delightful rose garden.`
+` I remembered that every year before six years previously, huge amounts of roses had greeted me.`
+`...This rose garden was the first thing that greeted the people who came to Rokkenjima.`
+` Even our parents, who came every year, couldn't help but let their wonder slip out.`
+` And moreover, it looked like a 'powered-up' version of the garden from six years ago that was in my memories.`
+`"This place is always so amazing.`
+` It must be wonderful to have a rose garden like this in your own home."`
+`"Give it up.`
+` Who do you think would take care of it? Roses are a real pain, with bugs and diseases to worry about."`
+`"Well, from what I've heard, `
+`Kyrie nee-san takes care of her rose every day and makes sure no bugs get anywhere near it, right?"`
+`"Huh?`
+` What are you talking about?"`
+`"That's right.`
+` Though in this person's case, the rose goes after the insects like some nasty carnivorous plant."`
+`"...Oh, so that's what you mean.`
+` C'mon, Rosa, can't you give that a rest just for today?`
+` I've put that sort of thing completely behind me."`
+`"I wonder.`
+` After all, you are a womanizer on an almost genetic level...!"`
+`"No need to worry, Rosa-san.`
+` When a rose gives you too much trouble, it's always best to snip it at the root."`
+`"Hoh-hoh-hoh-ho, such frightening talk this is."`
+`"Guys who're popular with the ladies are always forced to live dangerously.`
+` I sure hope I turn out a bit prettier in my next life!"`
+`"Hideyoshi nii-san, as I keep telling you, it isn't like that at all.`
+` ...And Kyrie...stop it, you're freaking me out.`
+` Hasn't my rose withered already?"`
+`"Hey, Maria-chan, look over here.`
+` These roses are especially magnificent."`
+`"...Roses are magnificent.`
+` ...Uu-!"`
+`"Hmmm~~, smells pretty sweet.`
+` Look, this matches my elegance pe~rfectly."`
+`"Hey, cut it out!`
+` Maria's gonna imitate you and get hurt by the thorns!"`
+`She yelled at me as I leaned in to smell the rose's scent with an exaggerated gesture.`
+`...I thought she was overreacting, but when I turned around, I saw Maria imitating my every gesture and George-aniki smiling broadly at us.`
+`"Hey now, Maria-chan, be careful.`
+` Rose thorns can hurt."`
+`"......Uu-?`
+` ............George onii-chan.`
+` Only this rose is strange.`
+` Uu-."`
+`"Strange?`
+` What's wrong?"`
+`Maria pointed to one rose.`
+` I immediately understood why she found it odd.`
+` In the midst of all these magnificent roses, just one single rose was withering.`
+` There wasn't any particular reason.`
+` Some roses flourish, and others wither.`
+` That's all there was to it, but Maria seemed very concerned about the only unhealthy one in the group.`
+`...It must have made her feel lonely.`
+`"So, you feel sad for this rose because it's the only one that isn't healthy...?"`
+`"......Uu-.`
+` The others are all healthy, but this one's sad."`
+`"Well, you always get a few that wither.`
+` I'll bet the only reason that one withered is because it bloomed earlier than any of the other roses."`
+`"Yeah, that's right.`
+` It probably just bloomed all over the place, fulfilled its duty and went to rest.`
+` You shouldn't get so worked up about it."`
+`".........Uu-."`
+`It seemed that Maria's pure, sensitive nature was making her feel some emotional pain for the rose that withered alone.`
+` Even though she understood the logic of it, it still felt lonely to her.`
+`"Then, Maria-chan,`
+` why don't you look after this rose until we leave?"`
+`"Uu-?"`
+`George-aniki straightened up and felt around in his pocket.`
+` He then took out the wrapping from the candy Maria had eaten on the plane.`
+` He twisted it into a thin string, and gently tied it to the rose as a sort of marker.`
+`"Heeey, that's pretty cute!"`
+`"Let's mark it with this.`
+` Later on, you can come and give it some water.`
+` I'm sure Mr. Rose will be happy."`
+`"......Uu-!`
+` Come to give it water!"`
+`"I think you should give Mr. Rose here a name.`
+` I'm sure that'll make it happy, and you'll get to know it a little better."`
+`"Name...?`
+` Name...`
+`......Uu-...uu-..."`
+`Though she still wore her usual sullen face, Maria crossed her arms and began to consider this intently.`
+` At the very least, she appeared to have been completely pulled out of her slump.`
+` Nice going, Aniki.`
+`"George nii-san has always been really understanding.`
+` Can't help but respect him."`
+`"Yeah.`
+` I guess he was just born that way.`
+` We've gotta start picking up tips!"`
+`"Was this garden just as magnificent when you all were kids?"`
+`"From the time I left the House onwards, it started to really become something.`
+` Before that, the garden was simpler, but I'm still attached to that one though.`
+` Nii-san fiddled with it too much, with his slightly bad taste.`
+` It was better the way it was before."`
+`"Eva, you've gotta think positive!`
+` Regardless of how it once looked, its beauty now is something to be admired.`
+` You'll be able to relax a lot better if you look at it that way."`
+`"I didn't mean it like that...`
+` I was just saying that I wanted you to see this garden the way it was before too."`
+`"Now then, everyone, if you please.`
+` I shall be guiding you to the rooms now."`
+`Gohda-san called to everyone to ask if we were ready, `
+`but our hearts had been completely stolen away by the rose garden after a year of absence, and we didn't lend him an ear.`
+` Since we weren't a travel group, it wasn't like we had a strict schedule to follow.`
+` Besides, since our parents were visiting their old home, full of nostalgia, it wasn't like they had to let themselves be urged on by anyone or anything.`
+` Understanding the situation, Gohda-san continued to wait, smiling widely, until our parents got tired of the roses and told him to guide us to the rooms...`
+`"My...!`
+` Heeey!`
+` If it isn't Kanon-kun!`
+` It's been so long! How are you doin'?!"`
+`Hideyoshi oji-san suddenly shouted.`
+` In the direction he was waving at, `
+`.........there was a slender boy.`
+` Meeting him right after a huge man like Gohda probably emphasized his small stature.`
+` The boy was in the middle of transporting piled-up gardening tools and the like in a wheelbarrow.`
+` When he realized he was being called to stop, he set down the wheelbarrow, took his hat off and bowed his head.`
+`"..................`
+`.........Good afternoon."`
+`...I figured he was probably younger than me.`
+` I realized by the general atmosphere surrounding him that he was a servant too.`
+` He answered Hideyoshi oji-san's greeting, but he seemed unsociable deep down.`
+` It was a greeting that lacked feeling.`
+` When Gohda-san noticed that our interest had shifted towards him, he went to the boy's side and introduced him to us.`
+`"Battler-sama, I shall introduce you.`
+` He is one of the servants who serve the Ushiromiya head house.`
+` ...Kanon-san, greet our guest."`
+`"..................I'm pleased to meet you.`
+` I am the servant............, `
+`Kanon ({p:0:嘉音})."`
+`Yep, my first impression wasn't wrong, he gave the feeling that he was unsociable, and a bit of a poor speaker.`
+` Compared to Gohda-san, who was extraordinarily polished as a servant,`
+` no matter what he did, he gave off a feeling of inexperience typical of his age.`
+` When Gohda-san urged him in a whisper to give a bit more of an introduction, the boy named Kanon only cast his eyes downwards.`
+`"Kanon-san.`
+` Could you perhaps give them a little more as a greeting...?"`
+`"............No.`
+` ............Because we, `
+`......are furniture."`
+`It seemed that he wasn't refusing to greet us out of spite,`
+` but rather, he gave the impression that he had no choice but stay silent, not knowing what to add to his greeting.`
+`"Ah, uh, Kanon-kun's shy, he's the kind that doesn't talk much.`
+` He might not be that sociable, but deep down he's really a good person!`
+` Don't get him wrong...!`
+` You've been working here for three years, was it?`
+` So yeah, you've been here a year longer than Gohda-san, right Kanon-kun?"`
+`Even though it's not like he made a super bad impression, Jessica hurriedly backed him up.`
+`...I see, apparently him being unsociable works against him all the time.`
+`"Ok then, nice to meet you.`
+` I'm Battler!`
+` I'm 18, how old are you?"`
+`"..........................."`
+`A silence, as if appraising whether it was a question that must be answered or not.`
+` ...But here again, Jessica plowed ahead.`
+`"Um, uhh...!`
+` If I remember correctly, he's two years younger than us so...sixteen, right?"`
+`"............Yes, ...that is correct."`
+`It looked like if given a choice, he would have preferred not to tell us his age.`
+` Him not wanting to tell his age was probably because he thought he would be looked down upon for it.`
+`...I remember that when I was around his age, I hated being asked how old I was by adults.`
+`...I see, sixteen huh? `
+`That's gotta be a delicate time.`
+`...In that case, I asked something I shouldn't have.`
+`"Heh he~, I'm glad you're about our age!`
+` Just be cool and call me Battler!`
+` And I'll call you Kanon!"`
+`".........Thank you very much.`
+` But just the sentiment is sufficient, ...Battler-sama."`
+`Jessica looked all downcast for some reason.`
+` She seemed to think that my impression of Kanon was worsening because of his rejection.`
+` Well, that girl Jessica probably couldn't understand the fretful male heart at this age.`
+` As his elder, even by just two years, who would lead him into adolescence, I took it upon myself to understand that.`
+`"Kanon-san, could you perhaps be a little more courteous?`
+` A smiling face is also the duty of a servant."`
+`"...............I apologize.`
+` ...I shall make an effort."`
+`"Hoh-hoh-ho...`
+` Gohda-san, Kanon-kun is trying his best, isn't he?"`
+`It looked like he had already been well warned about his discourtesy.`
+` And apparently he hadn't improved a bit.`
+` Gohda-san kept his business-smile, but let a small sigh of resignation escape.`
+`"......Well then, I still have work to do.`
+` .........If you'll excuse me."`
+`It looked like Kanon himself was uncomfortable with remaining silent here any longer.`
+` After another perfunctory bow, he turned on his heels and started pushing the wheelbarrow again.`
+` Just then, suddenly, the wheelbarrow wobbled and fell, scattering the load.`
+` I guess the wheelbarrow with its single wheel caught on a pebble and lost its balance.`
+`"What have you done..., now now, quickly clean it up...!"`
+`Since Gohda-san was one to harp on the fact that presenting a clumsy appearance in front of guests is a servant's shame, he urged him along in a low voice.`
+` Kanon-kun, who probably understood quite well without being told, wordlessly reloaded the wheelbarrow with the fallen objects.`
+` He seemed to be fine with the light-looking gardening tools, shovels and such, but he looked like he was having trouble getting his arms around and lifting up some sacks of fertilizer.`
+`"Are you alright? You're so careless.`
+` Here."`
+`"Milady, you will dirty your garments.`
+` Please, leave it to us."`
+`Gohda-san took the shovel that Jessica had picked up with an elegant gesture.`
+` At his back was the figure of Kanon-kun having trouble with the sacks of fertilizer.`
+`"......Uu-.`
+` You'll dirty your garments?"`
+`"Don't worry, the ones I'm wearing aren't that elegant. `
+`Besides, I hate guys who make the waitress pick up the fork they dropped at a restaurant."`
+`I lifted up the other bags that had fallen.`
+` Of course, they weren't light, but for me it was a piece of cake.`
+` Kanon-kun turned his surprised eyes towards me.`
+` It was the face of one who would never have thought to receive help from a guest. `
+`"............B-Battler-sama...`
+` That's sufficient..., I'll take care of everything, so..."`
+`"Don't you worry!`
+` I may not look it, but I've got it where it counts!`
+` Heheh!"`
+`Since Kanon-kun looked like he hadn't yet gone through his growth spurt, he was stuck with a sorta weak body.`
+` I guessed that this kind of weight was too much for him.`
+`"It's quite heavy, isn't it.`
+` It's natural that it would be difficult for you.`
+` Kanon-kun, don't worry about it."`
+`"Ok, my time to shine.`
+` This makes up for the boat part from before, right?"`
+`"Ha!`
+` As if your antics earlier could be written off just by this!`
+` Ah-hah-hah-ha!`
+` Later, I'm gonna tell Kanon-kun too just how funny you were, Battler!"`
+`"Faaall faaall!!`
+` Uu-uu-uu-!!!"`
+`As they did this, I piled all the stuff back into the wheelbarrow.`
+`"............For letting you see such unsightliness, I beg your forgiveness."`
+`"Very well, enough now.`
+` Please, go."`
+`Letting such a disgraceful thing be seen by the guests who were supposed to be made welcome...must have been hideously embarrassing as a servant.`
+` Pressed by Gohda to hurry up and exit, Kanon-kun left.`
+`"You're too harsh on him, Gohda-san.`
+` Wouldn't it have been better if you'd helped him, instead of being a bully?"`
+`"...That had not occurred to me.`
+` I deeply, deeply implore your forgiveness."`
+`Without even a twitch in his smile, Gohda-san apologized elegantly.`
+`"Kanon-kun has a ton a things he's good at too.`
+` It's just that bein' young works against him all the time.`
+` It's a cryin' shame."`
+`"It's a prickly age.`
+` You be nice to him.`
+` Close-mouthed servants are just fine.`
+` Right, Kumasawa-san?"`
+`"Hoh-hoh-hoh-ho, Rudolf-sama, you truly are harsh!`
+` There is no servant as silent as I, of course!"`
+`Everyone smiled wryly at that shameless lie.`
+` Even she herself didn't believe that, not in her wildest dreams.`
+` She said that to loosen us all up.`
+` Yeah, that's the kind of character Kumasawa baa-chan used to be.`
+` The mood that had stiffened a little was cleared up in a twinkling, thanks to Kumasawa-san's cheerful smile.`
+`"I'd like to put down the luggage soon.`
+` Gohda-san, how are we to split up for our rooms?"`
+`"It shall be the same as the previous year.`
+` I shall guide you.`
+` Please, this way."`
+`We headed towards a trim, elegantly simple guesthouse.`
+` This was gonna be our temporary quarters for a night.`
+`".........................................."`
+`Kanon watched over a hedge as the guests all entered the guesthouse.`
+` Then, he let his eyes fall on those heavy sacks of fertilizer, piled up in the wheelbarrow.`
+` In his mind, he kept going over his previous mistake.`
+` Battler, big and strong, had picked up the sacks in front of him, the sacks he couldn't lift himself, as if they were feathers.`
+` It was extremely difficult for an outside observer to guess what emotions that favor had stirred up in Kanon.`
+` But as far as you could tell by watching him hang his head from behind, there was something that he just couldn't let go.`
+`...Muttered words escaped his lips.`
+` But those words he murmured were so soft that they didn't reach even his own ears.`
+`"...............Even I, `
+`..........................."`
+`Kanon hung his head, slightly biting his lower lip...`
+`"I remember the rose garden, but...`
+` I don't remember this guesthouse at all.`
+` Was it built like recently?"`
+`'Toraian' (Visitor's Retreat) was written on a gatepost-like thing, but since everyone called it the guesthouse, I followed their lead.`
+` The brand-new western-style guesthouse that stood overlooking the rose garden had a magnificent design carefully done in harmony with the garden.`
+`"Correct!`
+` It was built the year before last.`
+` And after that, they made us sleep over here.`
+`"Hehe, this place's more fun than that junky old mansion you knew.`
+` I wish my room was over here!"`
+`"Uu-!`
+` Maria wants one too!`
+` Waaant!"`
+`...I guess you could say my house was also upper-class, but I thought it was completely ordinary compared to the head house.`
+` The display of wealth was shocking, as was the fact that they would build this kind of awesome guesthouse for guests who come over like once a year.`
+`"Eva-sama, Hideyoshi-sama.`
+` Please, do make use of this room.`
+` Rudolf-sama, Kyrie-sama, please make use of this room here."`
+`"Ah yes, it's pleasant how pretty and elegant this place is.`
+` Western style truly is wonderful."`
+`"I can handle the western style for a few days, but any longer than that and you need the good old Japanese style!`
+` Japanese people just relax best on tatami mats."`
+`"...Haha, they've been fighting over making our new house Japanese-style or western-style.`
+` Mom still holds a grudge about Dad having the construction started as Japanese-style, and they bicker all the time about it."`
+`"I'm really jealous, George nii-san. Your parents get along well, don't they?`
+` Mine are so frosty.`
+` But even so, they're right with each other when it comes to my grades."`
+`All the rooms seemed to be two-person.`
+` I was grateful, because since things turned out like this, I wasn't gonna be forced to share the same room with the old bastard, under the pretext that we were family.`
+` I figure those two wouldn't be able to enjoy themselves with someone like me around, ihihi.`
+`"What's that creepy smile all about? `
+` You're thinking about something dirty, aren't you."`
+`"Ihihihi~!`
+` Something diiirrrty? Of cooouuurse not!`
+` Do please...enjoy your staaay~!`
+` Ow, owowowow!`
+` That hurts, you old bastard!"`
+`Once again, Dad pulled my ears from behind.`
+`"Cut the crap.`
+` I'm getting a stomachache, and I'm not in the mood for this.`
+` You're the guest of honor this time around.`
+` You play as nice as possible with Dad and Aniki and the rest.`
+` ......At the very least, pay attention to what you say in front of Dad, got it?`
+` Because wisecracks don't go too well with him.`
+` ......Jessica-chan, what's the head of our family's mood been lately?"`
+`"...Hmm......,`
+`Same as last year, I guess.`
+` ......Considering they say he's got three months left, he's as stubborn, `
+`grumpy, `
+`and irritable as ever."`
+`"Meaning, this year he's in his usual bad mood.`
+` ......And as usual, the only one who's able to take care of him is Genji-san?"`
+`"It seems that the Master will only open his heart to Genji-san.`
+` Lately, us small people cannot even get an audience..."`
+`"He's shut himself up in his study again, probably doing nothing but that weird black magic of his.`
+` What he does for a hobby is his own damn business, but when he starts stinking up the house, it really gets on my nerves.`
+` ...And I wish he'd never come out of that study again.`
+` Heheheh!"`
+`"You shouldn't talk like that about the elderly.`
+` We're all indebted to him, since he rebuilt the Ushiromiya Family, and a little gratitude wouldn't hurt."`
+`"Hm, ...well...`
+` ......Sorry."`
+`After being rebuked by George-aniki, Jessica had no choice but to take back her thoughtless remark.`
+` The Ushiromiya family was wealthy beyond belief, but that, of course, meant that all its members were weird people who cut themselves off from the world entirely.`
+` The Head of the Family, standing at its peak - in other words, our Grandfather - seemed to be a particularly weird and terrifying person, even for our family.`
+` Dad had said he was getting a stomachache earlier..., but I guess that was what all the adults who came here today were actually feeling.`
+` No doubt they were jealous of us, the grandchildren, just playing and laughing without a care.`
+` From the stories Dad told me, the Head of the Family was a violent man who rained blows on his sons with his own fists and even beat his daughters mercilessly with a wooden sword.`
+` If he was such a hard-ass with his kids, why wasn't he the same with their names? `
+`Because of that, it's a pain even for us grandkids.`
+`......Well, I'm not the least unsettled by his terrifying image.`
+` I don't have many memories of meeting him over the years, but I remember Grandpa, his face always full of menacing thunder-clouds, always making his surroundings shrink away with a sharp look.`
+` I remember that the room's atmosphere got so tense whenever he was around, you couldn't even breathe.`
+` What my dad said right now about me being the guest of honor now carries a little more oomph for me.`
+`".........Six years ago I was in grade school, but, as one would expect, I'm a high-schooler now.`
+` If I act up, things'll probably get serious.`
+` ...Ooo, scary."`
+`"He does look frightening, but he's not completely terrifying.`
+` He's definitely never unfair.`
+` He's just very direct and not a pretty talker, that's all."`
+`"But George nii-san, you've been the family darling since like forever because of your awesome grades, right?`
+` Grandfather treats us completely different!`
+` Like me, I've gotten slapped with a wooden sword.`
+` On my ass, my ass!`
+` On my maidenly, innocent ass!"`
+`"Well, you're the heiress of the head house, Jessica-chan.`
+` Grandfather is giving you special attention.`
+` You have to realize that his strictness shows how much he's expecting of you."`
+`"Oh, come on. `
+` ...Seriously, I could just turn the succession over to you, George nii-san.`
+` It's a bit of a heavy burden for me to carry."`
+`I think I already said it before, but Jessica was the daughter who would inherit the head house.`
+` As cousins of a branch of the family, the pressure on our shoulders was probably different.`
+`".........Uu-?`
+` Jessica onee-chan, heavy?`
+` If Maria holds it, will it get lighter?"`
+`"Hm?`
+` Ahahahaha, thanks.`
+` It's alright, it's not gonna get pushed on you, Maria. `
+`......I'm gonna bear that cross until my grave.`
+` ...Don't worry."`
+`She was grateful for Maria's innocent consideration, but it seemed that anxiety for the future she couldn't clear away remained on Jessica's face. `
+`...Were we the same?`
+` If it was a high-schooler near an examination, nobody'd be able to hide their anxiety for the future.`
+`"Maria, come here.`
+` Mom and Maria will be in this room."`
+`"Battler-kun, you will be with me in this room here."`
+`"Oh?`
+` This is a surprise!`
+` It's bigger than our parents' room, wo~w!"`
+`"Anyway, being cousins, I think we'll gather together.`
+` I went and told them in order to get a bigger room."`
+`"Uu-!`
+` Maria likes here best too!`
+` Here is better than being together with Mom!`
+` Uu-uu-!"`
+`"Okay, you like it here better too, Maria!`
+` Alright, this room is George's and mine, but we'll specially allow you to come in and out!`
+` Keep it a secret from your mom, right?"`
+`"Uu-!`
+` Secret!"`
+`Her mother, Rosa oba-san, was right behind us, but Maria still answered, striking the air with her fists clenched tight.`
+` After our parents put the luggage in the rooms, they gathered again in the corridor.`
+`"Hey brats, what'll you do?`
+` Are you cousins just gonna stay here and chat?"`
+`It seemed they were heading to the mansion to announce their arrival.`
+`...Normally, we would have had to follow them and greet everyone together, `
+`but if that had been the case, Dad would just have said 'You guys come!' and finished it.`
+` He was telling us that it was alright if we didn't come, so what'll we do?`
+`"Anyway, it's gonna be high noon soon.`
+` Better let the kids unwind here.`
+` Besides, if worse comes to worst, this might be the last chance they get to play outdoors."`
+`"Uu-!`
+` Maria will go too!"`
+`"Maria, you house-sit for Mommy, okay?`
+` You behave yourself and wait here."`
+`"......Uu-."`
+`Telling Maria to house-sit was a pretty lame excuse for leaving her behind.`
+` George-aniki soon realized it and gave a clear reply for all of us.`
+`"Well, we'll accept your offer and house-sit.`
+` We have lots of stories to tell each other, after a year."`
+`"That's nice.`
+` And Battler-kun has six years' worth, doesn't he?"`
+`"Yeah, yeah.`
+` I'll take care of the house like a good boy."`
+`"Kumasawa-san, I'm gonna stay here too!`
+` We'll leave the rest to the adults and us kids'll break rank, hehehe!"`
+`"That's nice, hoh-hoh-ho.`
+` I'll report it to Madam..."`
+`"Then, everyone, I will be guiding you to the mansion.`
+` Please, this way."`
+`"...Since George isn't a child anymore, and is getting to be an adult, wouldn't it be better if he came with us?"`
+`"If we make him come, only poor George will be out of place.`
+` Interactin' with his cousins is also important.`
+` Okay, bye then!"`
+`The adults left one after the other.`
+` Like the time he had guided us from the harbor, Gohda-san went ahead, with Kumasawa-san at the rear.`
+` As we gathered in the cousins' room assigned to us, George-aniki asked us to excuse him for a second.`
+` He rushed over to Kumasawa-san, who was following behind the disappearing adults, and seemed to be asking her something.`
+` He soon finished his business and came back.`
+`"What's up, Aniki?"`
+`"Ah, nothing.`
+` I just wanted to ask something."`
+`"Uu-!`
+` Tell Maria too!`
+` Tell Maria too!"`
+`"......Hm~?`
+` Hmhuhuhuhu.`
+` What could it be that George nii-san asks Kumasawa-san and doesn't ask me, I wonder~?`
+` Ah, I don't have a clue~!"`
+`"No, it's a misunderstanding...!`
+` I'm not sure what Jessica-chan is misunderstanding but...!"`
+`Aniki was getting pretty tongue-tied.`
+` It's almost as though he had a guilty conscience and he was putty in Jessica's hands.`
+`...Why? Something only Jessica knows and I don't is no fun at all!`
+`"Well, Maria, it seems only us two are out of the loop, right~?`
+` What is this all about, now? I want to know, hmm~?!"`
+`"Uu-!`
+` Battler and Maria want to know too!`
+` Battler and Maria want to know too!"`
+`""Uu-uu-uu-uu-!!!""`
+`I fooled around while "Uu~"ing together with Maria.`
+`"No, I'm telling you... it's no big deal, ahahaha..."`
+`"Li~ar!`
+` You suck at lying, now confess!`
+` Maria, you tickle his right side, I'll tickle his left!"`
+`"Uu-!`
+` Maria right side, Battler left!`
+` Uu-!"`
+`"Wait a second!!`
+` Wait you two...!!`
+` Ahahaha, stop, `
+`ahahahahahaha!!"`
+`Maria and I played around, chasing George-aniki, who ran away, rolling on the bed.`
+` I think that when you're a high-schooler you try not to act like a kitten anymore, but in spite of that, I missed this kind of fun.`
+` A warm kind of fun.`
+`"Haahahahaha, George nii-san, what were you asking Kumasawa-san?`
+` Hmm~?`
+` Well, I've got a good guess.`
+` It's been a year since you last came to the head house.`
+` During that time, some servants retired while new ones came over...and you wanted to say hi, right?"`
+`"......Uu-?`
+` Greet, Maria will greet too!"`
+`"What the hell, that's not anything to feel guilty about, Aniki.`
+` ......Hmm~~m?`
+` That's not it??`
+` Maria, don't be fooled, what are you hiding, Aniki?`
+` More torture!!`
+` Uworyaaa!!"`
+`"S, stop it, seriously!`
+` Aahahahahaha!`
+` Maria-chan, you too, stop already!!"`
+`"Aahahahahaha, aahahahahaha!`
+` Hahahaha!!"`
+`"They're probably busy with cleaning or lunch arrangements.`
+` It's alright, we'll go and greet them properly afterwards.`
+` Shannon's reception will sure be better than Gohda's nosy one, right?`
+` Heehehe!"`
+`"Shannon?`
+` ......Shannon.`
+` ......Aaaaaaaaahh...`
+` I remember, that girl!`
+` She's still a servant now?`
+` Such spirit!"`
+`"By the way, Natsuhi nee-san.`
+` How's your headache been lately?`
+` It seemed to be pretty serious for a time."`
+`"...I have been much better lately.`
+` Thank you for your concern."`
+`"Oh, right. Here.`
+` A present for you, Natsuhi nee-san."`
+`"......Thank you very much.`
+` I'm always receiving gifts from you.`
+` ...Is this black tea?"`
+`"It's herb tea with peppermint and lemon balm.`
+` It's a blend from a well-known store and is supposed to be good for headaches.`
+` I thought it might help you too."`
+`Rosa was always a conscientious woman.`
+`...Probably because she was the youngest of four siblings and much younger than the other three, `
+`she managed to grow up without harboring the venomosity of her siblings.`
+` Her consideration made Natsuhi soften her expression for just a moment,`
+` but it wasn't enough to make her let down her guard, which was constructed around her long-held anxiety.`
+`"That reminds me, you were always saying you get those headaches.`
+` Pull yourself together.`
+` Jessica-chan will have her exams this year, won't she?`
+` Isn't that a turning point in her life?`
+` Are you that unreliable as a mother?`
+` Besides, Natsuhi nee-san, you're three years younger than me.`
+` Can't you pull yourself together?"`
+`"............`
+`.........I apologize.`
+` I was born with this discomfort."`
+`Eva sometimes fails to choose her words carefully, but even though she hid it with a smile, her comments aimed at Natsuhi contained shards of obvious malice.`
+` Of course, that didn't escape Natsuhi.`
+` She frantically contained her urge to grimace, and pretended to ignore Eva.`
+`"Our Battler-kun will have his exams this year too, right?`
+` Rudolf-san, shouldn't you be a little concerned too?`
+` For the sake of your own son, get serious to the point of getting headaches like Natsuhi nee-san."`
+`"If I say anything, he automatically goes against it.`
+` So what should I say? Should I say the opposite, that it's okay for him to mess around?`
+` That's probably the only thing he'd obediently listen to me say. `
+`In your family, Hideyoshi nii-san, didn't George do really well on his exams?`
+` Please, teach me the secret to controlling children."`
+`"Hmm, well...`
+` It's probably because I convinced him why he should study!`
+` Study isn't worth anything on its own.`
+` That's right, the real point of studyin' is to train yourself by researchin' what you don't know!`
+` If you can't do that, you can't be useful to society!`
+` I'm not talkin' about math or writin'.`
+` You need to learn how to learn!"`
+`"...That's splendid.`
+` It would be nice if our Jessica could understand that, though.`
+` As it is now, she doesn't at all, but as the heiress of the Ushiromiya family,"`
+`"Do you really have to force her into becoming the successor?`
+` Women have to find their own happiness.`
+` Parents shouldn't be deciding that for their children, right?"`
+`"Hold your horses, Eva.`
+` Each family has its way to raise their children.`
+` You shouldn't be pushy."`
+`"I'm sorry.`
+` Natsuhi nee-san, don't take it the wrong way."`
+`"..........................."`
+`Though the light shining in through the window was quite warm despite the cloudy weather, there was a dark mood about the room,`
+` ...which probably caused headaches for other people besides Natsuhi.`
+` As if to brush away that mood, Kyrie brightly made a suggestion to all present.`
+`"Still, this black tea has a really lovely aroma.`
+` Let's drink it at once.`
+` In Japan, surely you can't buy something like Leopold's black tea anywhere but Ginza, right?"`
+`"Kyrie nee-san, how knowledgeable of you.`
+` It really was worth buying."`
+`Kyrie and Rosa stood up from their seats and made as if to prepare the black tea. `
+`Natsuhi forestalled them.`
+`"......Thank you, both.`
+` Let us save that for later.`
+` One of our people will soon be coming to bring some tea, so please relax."`
+`"Leave it for later, you two.`
+` Let's enjoy our 'welcome drink'."`
+`Rudolf gave a subtle signal with his eyes for them to sit down again.`
+`...Kyrie and Rosa understood instantly and obediently returned to their seats.`
+` The guests had already been greeted, so it was time for some tea to be prepared for them.`
+`...That tea was late and having the guests talk about making some themselves was an embarrassment for the host.`
+` Natsuhi bit her lower lip, frustrated with the ineptitude of the servants who were taking too long to bring the tea.`
+`...Seeing her face, Eva, without hesitation, started to giggle.`
+`......Of course, Shannon had no way of knowing what was taking place in the parlor.`
+` She came pushing a dish cart piled with tea cups.`
+` For no apparent reason, Natsuhi gave her a pained look, and Shannon couldn't help but flinch without knowing what she had done wrong.`
+`"......E, excuse me.`
+` The tea is prepared."`
+`"Oh, Shannon-chan, it's been a while!`
+` You keep getting prettier every time I see you!"`
+`".........Oh, `
+`...um, `
+`.........thanks...,"`
+`"Leave the chatting for after you've set the table.`
+` The tea will get cold."`
+`"......I,...I apologize, Madam."`
+`She apologized like a small frightened animal, and, bumping against the serving cart, made a jarring racket as she dropped several tea spoons.`
+` Her clumsiness made Natsuhi's expression even harsher, which made Shannon in turn quail even more.`
+`"It's alright, Natsuhi nee-san.`
+` It's just one kind of greeting, no big deal.`
+` We've already been made to wait for so long, the tea must be cold.`
+` Heheheh."`
+`"It, ...it's alright...`
+` It's not cold yet..."`
+`".........Shannon, finish setting the table, quickly."`
+`"I, I'm sorry, Madam......"`
+`It was obvious that Natsuhi was getting irritated.`
+`...The ineptitude that delayed the tea, the clumsiness of the servant, everything pointed to the incompetence of Natsuhi's everyday guidance, making her lose face.`
+` As the person in charge of the Ushiromiya head house's kitchen, allowing that clumsiness to be exposed today of all days was surely nothing less than total humiliation.`
+`"Lay off, Natsuhi nee-san.`
+` Don't you think it's a little harsh to bully Shannon-chan when she's trying her best?"`
+`"I'm not bullying anyone...!"`
+`"What a nice smell.`
+` May I ask you the brand of this tea?"`
+`"............Umm..., `
+`......I'm, ...I'm terribly sorry...`
+` I'll find out for you later..."`
+`Kyrie wanted to cut through the tense mood, planning to be nice to her.`
+`...However, instead, Shannon had shown a disgraceful display, darkening Natsuhi's face and the room's mood.`
+` By this point, Eva was audibly giggling.`
+`"Whaat's this?`
+` Shannon-chan, don't you even know what you're pouring us?`
+` Come now, you mustn't serve something so suspicious to guests.`
+` We'll need a silver spoon at the very least before we can drink this.`
+`".........I, ...I'm sorry......`
+` I'll go get one immediately..."`
+`"Shannon-chan?`
+` Do you know what silver spoons are used for?`
+` Or why they have to be silver?`
+` Do you know why?"`
+`"...............No..., `
+`.........umm......"`
+`Eva's eyes played over Shannon, who was setting the table, as a catty smile floated onto her face.`
+`...Eva's expression as she watched was charming in an impish sort of way.`
+` However, the words being spun from her lips held within them the keenness of a razor.`
+` Shannon tried with all her might to avoid Eva's gaze, which continued to stare at her.`
+` Grasping that Shannon was hard-pressed for an answer, Rosa promptly gave some timely help.`
+`"They say that if silver is touched by poison, it dims.`
+` ...*giggle*, you've learned something, right, Shannon-chan?"`
+`If the tea hasn't been tested for poison, it can't be drunk.`
+` In Natsuhi's eyes, this was an insult to both the tea...and herself for serving it.`
+` Rudolf, laughing flippantly, patted Eva's shoulder.`
+`"Haha, Aneki doesn't need any silver cutlery.`
+` With just one lick of her poisonous tongue, even a silver plate would go pitch black."`
+`"Wahahahaha!`
+` Since I get to hear that poison-tongue every day, I must be poison-proof by now!`
+` I don't pay it much mind, but poor souls without resistance are in for a stormy ride!`
+` Wahahahaha!"`
+`"My, how cruel.`
+` I only gave Shannon-chan a bit of information about tea, didn't I?`
+` *giggle*."`
+`Everyone followed the lead set by Hideyoshi's horselaugh and smiled, though sourly.`
+` Only Natsuhi didn't join in, but for the time being, the conversation inside the parlor could now be mistaken for a lively and friendly chat.`
+` Kyrie apologized to Shannon in a low voice for not being able to help as she finally finished setting the tea table and tried to leave.`
+`...Shannon gave a light bow and made a hasty retreat......`
+` Shannon cast her eyes downwards, pushing the cart down the corridor...`
+` The pitiful air around her made it obvious that she had borne the brunt of some bullying.`
+`"......Don't be sad.`
+` You didn't do anything wrong, Nee-san."`
+`"...............You were watching."`
+`"That is my duty."`
+`"........................"`
+`"Madam and Eva-sama can go to hell.`
+` ......But the even worse coward is that guy."`
+`Kanon glared hatefully in the opposite direction of the parlor.`
+` The preparations for the tea had been delayed by some trifling problem in the kitchen.`
+` These problems were not Shannon's fault.`
+` The truth is that it had been Gohda's mistake.`
+` There was no way that a showoff like Gohda would ever hand over a flamboyant job like carting the tea to the guests in the first place.`
+` He had ended up wasting time preparing the tea a second time.`
+` So, knowing that he wouldn't be able to make it on time, he pushed the task of setting the table on Shannon, who happened to be passing by.`
+`......One could say that cutting corners like this was an especially despicable kind of cowardice.`
+`"......It's alright, Kanon-kun, thank you.`
+` ...I really don't mind..."`
+`"................................."`
+`Kanon's silence vividly showed that Shannon's words weren't coming from her heart.`
+`"............Thank you.`
+` Even if you're the only one who understands, I feel better."`
+`"......You bottle things up too much, Nee-san.`
+` ......You should be less hard on yourself for once."`
+`"Yeah.`
+` ......Thanks."`
+`Suddenly, they both felt someone's presence and whirled around.`
+` A middle-aged man stood there.`
+` It was Genji, the head servant.`
+`"..................What are you doing here?`
+` ...Shannon, hurry back to the kitchen."`
+`"Y, yes.`
+` ......If you'll excuse me......"`
+`"................................."`
+`Shannon humbly obeyed and promptly made to push the cart and leave.`
+` However, Kanon appealed to Genji in silence, bearing something in his eyes that he could not express in words.`
+`"...............What is it?`
+` Did something happen...?"`
+`"...Sha, `
+`......Shannon didn't do anything wrong.`
+` But even so, they..."`
+`"Stop it, Kanon-kun...`
+`......If you'll excuse me.`
+` I'll return to work immediately.`
+` Kanon-kun, you too, go back to your post.`
+` ......Please."`
+`"............If you say so, Nee-san."`
+`"..................`
+`...If that is all, then go."`
+`"......Yes.`
+` ......If you'll excuse me."`
+`From the shadows in the hallway, an old woman wearing an apron watched over them. It was Kumasawa...`
+`......I feel so sorry for them, Shannon-san, Kanon-san...`
+` There's no reason for those two to be picked on. `
+`...But, it cannot be denied that they are disliked by Gohda-san...`
+` Until Gohda-san was taken in by the Ushiromiya head house, I heard he worked for a fabulous hotel somewhere.`
+` I think the manner of work he learned there was quite something.`
+` It's just that...Gohda-san is the newest servant here.`
+`...He must have a lot of pride accumulated from his previous posts.`
+` Because Shannon-san and Kanon-kun are his seniors here at the mansion, and yet are inexperienced and have gone through much less in life than he has, he picks on them at every chance he gets...`
+` And also, ...although it's terrible, they are hated by Madam Natsuhi too...`
+` Of course, in terms of experience, Madam has been in the family much longer.`
+` It's only that, .........they are just not allowed to sympathize with her.`
+`...The master is also a truly cruel person...`
+` He probably did not realize his own trifling whims passed so much of an inferiority complex to his wife...`
+`......Naturally, Madam's inner thoughts fully acknowledge that there's no reason to treat those two so harshly...`
+`...However, the heart has reasons that reason knows not...`
+` Aah, I feel so sorry for them...`
+` I can't do anything but watch over them from the shadows......`
